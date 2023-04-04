@@ -4,3 +4,5 @@ The purpose of this manual is to provide a detailed guide on how to calculate th
 
 
 A folder, file geodatabase, and toolbox were created to compliment and strengthen the tutorial for any user by providing examples of each step. The shapefiles and rasters have brief accompanying metadata describing. All shapefiles, tables, and rasters created in the tutorial are provided except for the NAIP aerial imagery on account of the file size. Rasters and classification schema are located in the folder, shapefiles and tables in the file geodatabase, and tool in the toolbox.
+
+For questions or suggestions for improvment, please shoot an email at jgrantmck@gamil.com! 
