@@ -7,4 +7,4 @@ The purpose of this manual is to provide a detailed guide on how to calculate th
 
 The needed materials for the analysis manual - rasters, shapefiles, and tools - are provided in the Tutorial folder of the repository.
 
-For questions or suggestions for improvment, please shoot an email to Grant McKown (james.mckown@uh.edu) 
+For questions or suggestions for improvment, please shoot an email to Grant McKown (james.mckown@unh.edu) 
